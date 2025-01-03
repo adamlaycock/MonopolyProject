@@ -1,0 +1,41 @@
+﻿name,type,colour,rent,rent1,rent2,rent3,rent4,rent_hotel,house_cost,hotel_cost,price,number
+GO,functional,,,,,,,,,,,1
+Old Kent Road,property,Brown,2,10,30,90,160,250,50,50,60,2
+Community Chest,functional,,,,,,,,,,,3
+Whitechapel Road,property,Brown,4,20,60,180,320,450,50,50,60,4
+Income Tax,functional,,200,,,,,,,,,5
+King's Cross Station,station,,25,,,,,,,,200,6
+"The Angel, Islington",property,Light Blue,6,30,90,270,400,550,50,50,100,7
+Chance,functional,,,,,,,,,,,8
+Euston Road,property,Light Blue,6,30,90,270,400,550,50,50,100,9
+Pentonville Road,property,Light Blue,8,40,100,300,450,600,50,50,120,10
+Jail,functional,,,,,,,,,,,11
+Pall Mall,property,Pink,10,50,150,450,625,750,100,100,140,12
+Electric Company,utility,,,,,,,,,,150,13
+Whitehall,property,Pink,10,50,150,450,625,750,100,100,140,14
+Northumberland Avenue,property,Pink,12,60,180,500,700,900,100,100,160,15
+Marylebone Station,station,,25,,,,,,,,200,16
+Bow Street,property,Orange,14,70,200,550,750,950,100,100,180,17
+Community Chest 2,functional,,,,,,,,,,,18
+Marlborough Street,property,Orange,14,70,200,550,750,950,100,100,1800,19
+Vine Street,property,Orange,16,80,220,600,800,100,100,100,200,20
+Free Parking,functional,,,,,,,,,,,21
+Strand,property,Red,18,90,250,700,875,1050,150,150,220,22
+Chance 2,functional,,,,,,,,,,,23
+Fleet Street,property,Red,18,90,250,700,875,1050,150,150,220,24
+Trafalgar Square,property,Red,20,100,300,750,925,1100,150,150,240,25
+Fenchurch Street Station,station,,25,,,,,,,,200,26
+Leicester Square,property,Yellow,22,110,330,800,975,1150,150,150,260,27
+Coventry Street,property,Yellow,22,110,330,800,975,1150,150,150,260,28
+Water Works,utility,,,,,,,,,,150,29
+Piccadilly,property,Yellow,24,120,360,850,1025,1200,150,150,280,30
+Go to Jail,functional,,,,,,,,,,,31
+Regent Street,property,Green,26,130,390,900,1100,1275,200,200,300,32
+Oxford Street,property,Green,26,130,390,900,1100,1275,200,200,300,33
+Community Chest 3,functional,,,,,,,,,,,34
+Bond Street,property,Green,28,150,450,1000,1200,1400,200,200,320,35
+Liverpool Street Station,station,,25,,,,,,,,200,36
+Chance 3,functional,,,,,,,,,,,37
+Park Lane,property,Blue,35,175,500,1100,1300,1500,200,200,350,38
+Super Tax,functional,,100,,,,,,,,,39
+Mayfair,property,Blue,50,200,600,1400,1700,2000,200,200,400,40
